@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## LAB - Class 01
 
 ## Project: Intro to Python
@@ -16,3 +17,7 @@
 #### How to use your library (where applicable)
 
 Tests:
+=======
+# README.md
+
+>>>>>>> 1573648 (correctrions to meet lab details)
